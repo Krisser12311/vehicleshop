@@ -12,6 +12,7 @@ Der med føre en cofig fil hvor næsten alt kan ændres.
 https://youtu.be/u4IxqJ0acyQ
 
 
+# Forskel
 Den normale vrp_showroom har en ms på  0.14 når man loder alt tekst m.m så min køre noget bædre 
 
 
