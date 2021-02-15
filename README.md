@@ -9,6 +9,7 @@ Hvis der for kommer bugs så skriv til mig på discord kristoffer#5358 Jeg yder 
 Der med føre en cofig fil hvor næsten alt kan ændres. 
 
 # Showcase
+I showcasen glemmer jeg at vise at man kan søge efter navn på bilen
 https://youtu.be/u4IxqJ0acyQ
 
 
